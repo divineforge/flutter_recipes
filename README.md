@@ -1,6 +1,12 @@
 # forge_calculator
 
-A new Flutter project.
+A new Flutter project to curate a calculator with intention to embed many easter-egg features.
+This is a work in progress project. Area to explore:
+- [x] Configuring Flutter project with Goodies, Analyzer, Best Practises
+- [ ] CI/CD workflow, GitHub Action & CodeMagic
+- [ ] Firebase as Serverless Deployment model
+- [ ] Multiplayer features
+- [ ] Hidden easter-egg feature inside calculator
 
 ## Getting Started
 
