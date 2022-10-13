@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "625909065690",
+    "firebase_url": "https://divine-forge.firebaseio.com",
+    "project_id": "divine-forge",
+    "storage_bucket": "divine-forge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625909065690:android:b9b10f56b071c4d61782e3",
+        "android_client_info": {
+          "package_name": "com.divineforge.forge_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625909065690-s074ht2mvp1qqmpmfv0b2sl0bkr45je0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF29UmVbXXHTuAXbS4lL7gp7PPsZoAZQI"
+        },
+        {
+          "current_key": "AIzaSyCqm-f8q-7Y2a84CmSZ-sMDJD2w0MNqaD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625909065690-s074ht2mvp1qqmpmfv0b2sl0bkr45je0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
