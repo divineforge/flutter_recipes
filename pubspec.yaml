@@ -1,5 +1,5 @@
 name: forge_calculator
-description: A new Flutter project.
+description: A new Flutter calculator project with multiple easter egg built inside.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
