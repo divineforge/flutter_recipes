@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Main Landing Page
 
-visit the following for more information: <https://divineforge.github.io/forge_calculator/>
+visit the following for more information: <https://divineforge.github.io/forge_calculator/
+>
