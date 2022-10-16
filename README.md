@@ -2,6 +2,7 @@
 
 A new Flutter project to curate a calculator with intention to embed many easter-egg features.
 This is a work in progress project. Area to explore:
+
 - [x] Configuring Flutter project with Goodies, Analyzer, Best Practises
 - [ ] CI/CD workflow, GitHub Action & CodeMagic
 - [ ] Firebase as Serverless Deployment model
@@ -23,5 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Main Landing Page
 
-visit the following for more information: <https://divineforge.github.io/forge_calculator/
->
+visit the following for more information: <https://divineforge.github.io/forge_calculator>
+
+More to come in the near future
