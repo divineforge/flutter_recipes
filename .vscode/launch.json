@@ -5,21 +5,28 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "forge_calculator",
-      "request": "launch",
-      "type": "dart"
-    },
-    {
-      "name": "forge_calculator (profile mode)",
+      "name": "rpg games",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "profile"
+      "program": "lib/rpg/main.dart",
     },
     {
-      "name": "forge_calculator (release mode)",
+      "name": "appauth",
       "request": "launch",
       "type": "dart",
-      "flutterMode": "release"
+      "program": "lib/appauth/main.dart",
     }
+    // {
+    //   "name": "forge_calculator (profile mode)",
+    //   "request": "launch",
+    //   "type": "dart",
+    //   "flutterMode": "profile"
+    // },
+    // {
+    //   "name": "forge_calculator (release mode)",
+    //   "request": "launch",
+    //   "type": "dart",
+    //   "flutterMode": "release"
+    // }
   ]
 }

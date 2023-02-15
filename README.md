@@ -1,5 +1,7 @@
 # The Flutter Recipes Project
 
+current SDK points at 3.7
+
 A new Flutter project to curate with many things with intention to embed many easter-egg features.
 This is a work in progress project. Area to explore:
 
@@ -11,5 +13,6 @@ This is a work in progress project. Area to explore:
 
 
 ## Main Landing Page
+
 visit the following for more information: <https://divineforge.github.io/flutter_recipes>
 
