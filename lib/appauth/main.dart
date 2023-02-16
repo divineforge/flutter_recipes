@@ -40,7 +40,7 @@ class _MyAppState extends State<MyAuthApp> {
   final String _clientId = 'etiqa_plus_mobile_uat';
   final String _redirectUrl = 'com.duendesoftware.demo:/oauthredirect';
   final String _postLogoutRedirectUrl = 'com.duendesoftware.demo:/';
-  final String _issuer = 'https://blueberry.etiqapartner.com.my';
+  final String _issuer = 'https://blueberry.etiqapartner.com.my/identity/v3';
   final String _discoveryUrl =
       'https://blueberry.etiqapartner.com.my/identity/v3'
       '/.well-known/openid-configuration';
@@ -50,14 +50,15 @@ class _MyAppState extends State<MyAuthApp> {
     'profile',
     'email',
     'offline_access',
-    'api'
+    // 'api'
   ];
 
+  static const hostUrl = 'https://blueberry.etiqapartner.com.my/identity/v3';
   final AuthorizationServiceConfiguration _serviceConfiguration =
       const AuthorizationServiceConfiguration(
-    authorizationEndpoint: 'https://demo.duendesoftware.com/connect/authorize',
-    tokenEndpoint: 'https://demo.duendesoftware.com/connect/token',
-    endSessionEndpoint: 'https://demo.duendesoftware.com/connect/endsession',
+    authorizationEndpoint: 'https://blueberry.etiqapartner.com.my/identity/v3/connect/authorize',
+    tokenEndpoint: 'https://blueberry.etiqapartner.com.my/identity/v3/connect/token',
+    endSessionEndpoint: 'https://blueberry.etiqapartner.com.my/identity/v3/connect/endsession',
   );
 
   @override
