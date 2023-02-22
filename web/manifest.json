@@ -1,6 +1,6 @@
 {
-    "name": "forge_calculator",
-    "short_name": "forge_calculator",
+    "name": "Flutter Recipes",
+    "short_name": "flutter_recipes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:625909065690:android:b9b10f56b071c4d61782e3",
         "android_client_info": {
-          "package_name": "com.divineforge.forge_calculator"
+          "package_name": "com.divineforge.flutter_recipes"
         }
       },
       "oauth_client": [
